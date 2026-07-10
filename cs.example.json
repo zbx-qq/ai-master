@@ -1,0 +1,10 @@
+[
+  {
+    "name": "__Secure-next-auth.session-token",
+    "value": "<set-your-own-session-token-locally>",
+    "domain": ".chatgpt.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  }
+]
